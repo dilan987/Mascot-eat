@@ -16,7 +16,7 @@ Netbeans 8.2 , Arduino IDE 1.8.13, Ubidots, Proteus 8.5 profesional, Visual Stud
 ## librerías:
 UltraSonicSensor.hex
 PrisensorTEP.hex
-
+PanamaHitek_Arduino 3.0.0
 ## Imágenes del sistema en funcionamiento: 
 
 ![1](https://user-images.githubusercontent.com/48070038/111035696-8b24de80-83e9-11eb-85f6-c7ad50fc0dfb.png)
