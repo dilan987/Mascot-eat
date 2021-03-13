@@ -20,3 +20,4 @@ PanamaHitek_Arduino 3.0.0
 ## Imágenes del sistema en funcionamiento: 
 
 ![1](https://user-images.githubusercontent.com/48070038/111035696-8b24de80-83e9-11eb-85f6-c7ad50fc0dfb.png)
+![web](https://user-images.githubusercontent.com/48070038/111037458-0ab6ab80-83f2-11eb-98fc-2654ec5c79d3.JPG)
